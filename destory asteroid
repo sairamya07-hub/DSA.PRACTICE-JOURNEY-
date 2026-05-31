@@ -1,0 +1,10 @@
+class Solution:
+    def asteroidsDestroyed(self, mass: int, asteroids: List[int]) -> bool:
+        asteroids.sort()
+        for new in asteroids:
+            if (mass < new ):
+                return False 
+            mass+=new
+        return True 
+
+        
