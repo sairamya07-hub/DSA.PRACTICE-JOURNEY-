@@ -1,0 +1,12 @@
+class Solution:
+    def findDifference(self, nums1: List[int], nums2: List[int]) -> List[List[int]]:
+        k=[]
+        j=[]
+        for i in nums1:
+            if i not in nums2 and i not in k : 
+                k.append(i)
+        for i in nums2:
+            if i not in nums1 and i not in j : 
+                j.append(i)
+        return (k,j)  
+        
