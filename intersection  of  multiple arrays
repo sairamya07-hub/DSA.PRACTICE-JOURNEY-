@@ -1,0 +1,8 @@
+class Solution:
+    def intersection(self, nums: List[List[int]]) -> List[int]:
+        n=len(nums)
+        k=set(nums[0])
+        for num in nums [1:]:
+            k=k.intersection(set(num))
+        return sorted(list(k))
+
