@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0456-132-pattern) |
+| [0560-subarray-sum-equals-k](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0456-132-pattern) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
