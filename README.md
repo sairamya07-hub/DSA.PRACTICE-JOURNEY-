@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0032-longest-valid-parentheses) |
 | [0456-132-pattern](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
