@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0678-valid-parenthesis-string) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
