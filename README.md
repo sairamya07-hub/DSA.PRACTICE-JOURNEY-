@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0009-palindrome-number) |
+| [0089-gray-code](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0258-add-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3870-count-commas-in-range](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0089-gray-code) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Primality Test
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0089-gray-code) |
 ## Greedy
 |  |
 | ------- |
