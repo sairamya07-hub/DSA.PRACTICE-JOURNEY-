@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0035-search-insert-position) |
+| [0219-contains-duplicate-ii](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0219-contains-duplicate-ii) |
 | [0456-132-pattern](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0197-rising-temperature) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
