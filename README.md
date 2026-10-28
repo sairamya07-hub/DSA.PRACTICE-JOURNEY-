@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/0197-rising-temperature) |
 | [1075-project-employees-i](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/1075-project-employees-i) |
+| [1729-find-followers-count](https://github.com/sairamya07-hub/DSA.PRACTICE-JOURNEY-/tree/master/1729-find-followers-count) |
 ## Sliding Window
 |  |
 | ------- |
